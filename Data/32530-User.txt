@@ -1,0 +1,11 @@
+1.3.1.0
+Hello Kitty: Big City Dreams
+N0:0x0013aa84:"[24-Bit Pointer] Skipping Rope\r\n+0x64 - [8-Bit] Jumps (0x64)"
+N0:0x001a4860:"[24-Bit Pointer] Skipping Rope (unused pointer)\r\n+0x44 - [8-Bit] Jumps (0x44)"
+N0:0x001a5b44:"rope 1"
+111000002:"I:0xW0013b960_d0xH00000154=29_I:0xW0013b960_0xH00000154>=30":Monster 30:Hit 30 Monsters on the Ghost Train:::::0:::::00000
+111000003:"I:0xW0013b960_d0xH00000154=49_I:0xW0013b960_0xH00000154>=50":Monster 50:Hit 50 Monsters on the Ghost Train:::::0:::::00000
+111000004:"I:0xW0013b960_d0xH00000154=69_I:0xW0013b960_0xH00000154>=70":Monster 70:Hit 70 Monsters on the Ghost Train:::::0:::::00000
+111000005:"I:0xW0013aa84_d0xH00000064=9_I:0xW0013aa84_0xH00000064=10":Jump Rope 10:Jump Rope 10 times::::Player1041:0:::::00000
+111000009:"I:0xW0013aa84_d0xH00000064=19_I:0xW0013aa84_0xH00000064=20":Jump Rope 20:Jump Rope 20 times:::::0:::::00000
+111000010:"I:0xW0013aa84_d0xH00000064=34_I:0xW0013aa84_0xH00000064=35":Jump Rope 35:Jump Rope 35 times:::::0:::::00000

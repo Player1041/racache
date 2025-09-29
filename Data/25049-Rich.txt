@@ -1,0 +1,70 @@
+// RP by Player1041
+
+// Performing an activity | Episode title
+
+Lookup:Episode
+0= | Episode 1: Globetrotting
+1= | Episode 2: Blue Meanie
+2= | Episode 3: Skull and Bones
+3= | Episode 4: Crashed
+4= | Episode 5: Under the Big Top
+
+Lookup:GameState
+0x0=Game Starting
+0x1=Logos
+0x3=Loading...
+0x4=Avoiding work by sitting in the Menu
+0x5=Choosing an episode
+0x6=Inspecting who made this masterpiece
+0x7=Tinkering with options
+0x8=Viewing the cast
+0xa=Changing profile
+0xc=Reading dialogue
+0xd=Getting some feedback
+0xe=Seeing some good results
+0xf=Spotting differences
+0x10=Locating items
+0x11=Questioning people
+0x12=Performing a spinal tap
+0x13=Drawing blood
+0x14=Spinning a centrifuge
+0x15=Heating samples with a Bunsen Burner
+0x16=Diagnosing people
+0x17=Performing a Laryngoscopy
+0x18=Separating microbes
+0x1b=Running scans
+0x1c=Performing a Spirometry Test
+0x1d=Medicating patients
+0x1e=Unlocking a padlock
+0x1f=Stuck in a maze
+0x20=Sorting underwear?
+0x22=Performing a Bronchoscopy
+0x23=Injecting Tensilon
+0x24=Locating more items
+0x26=Sorting magazines
+0x27=Cleaning
+0x28=Unfolding paper
+0x2a=Assembling pages
+0x2b=Placing evidence
+0x2c=Analysing blood
+0x2d=Examining patients
+0x2e=Playing with puzzle pieces
+0x2f=Comparing receipts
+0x30=Comparing signatures on a hospital form
+0x31=Searching through paper
+0x32=Removing grass from a lawnmower
+0x33=Rubbing ice onto Trevor's eye
+0x34=Sorting through wood
+0x35=Performing an Electromyograph
+0x36=CLEAR!
+0x37=Robbing an old lady
+0x38=Returning the items that I robbed from an old lady?
+0x39=Performing an ECG
+0x3a=Brainstorming...
+0x3b=Testing, Testing, 1, 2?
+0x3c=Medical malpractice will always prevail!
+
+Display:
+?0xX1a4220>9_0xX1a4220<58?@GameState(0xX1a4220)@Episode(0xH1a4378)
+?0=1?@GameState(0xX1a4220)
+@GameState(0xX1a4220)

@@ -1,0 +1,4 @@
+1.3.1.0
+LEGO Racers
+N0:0x00cce6:"[8 Bit] - Position"
+N0:0x00ece6:"[8 Bit] - Position Echo"

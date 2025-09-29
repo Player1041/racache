@@ -1,0 +1,17 @@
+1.3.0.0
+~Homebrew~ Minesweeper
+N0:0x0182:"[0x000182 -> 0x000311] Large Grid Bounds [400 Bytes]\r\n[0x000182 ->0x000245] Medium Grid Bounds [196 Bytes]\r\n[0x000182 -> 0x0001c9] Small Grid Bounds [76 Bytes]"
+N0:0x0312:"[8 Bit] Horizontal Tile Count"
+N0:0x0313:"[8 Bit] Vertical Tile Count"
+N0:0x0314:"[16 Bit] Total Tile Count"
+N0:0x0316:"[8 Bit] Horizontal Selection"
+N0:0x0317:"[8 Bit] Vertical Selection"
+N0:0x031d:"[8 Bit] Tile Counter - uses numerical, not hex"
+N0:0x031f:"Input\r\ndf - Flag Placed"
+N0:0x0327:"[8 Bit] Time Digits 3 and 4"
+N0:0x0328:"[8 Bit] Time Digits 1 and 2"
+N0:0x0342:"[8 Bit] Difficulty\r\n0x00 - Small\r\n0x01 - Medium\r\n0x02 - Large"
+111000001:"0xH0342=0_0xH031d=0.25._R:0xH0182=0":Small Board:Complete the Small board::::Player1041:0:::::00000
+111000002:"0xH0342=1_0xH031d=0.25._R:0xH0182=0":Medium Board:Complete the Medium board:::::0:::::00000
+111000003:"0xH0342=2_0xH031d=0.25._R:0xH0182=0":Large Board:Complete the Large board:::::0:::::00000
+111000004:"0xH0342=0_0xH031d=0_0xH032c=3.10._R:0xH031f=223_0xH0182!=0":Small Board (copy):Complete the Small board:::::0:::::00000
