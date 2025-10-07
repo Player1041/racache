@@ -1,0 +1,10 @@
+1.3.1.98
+South Park Rally
+N0:0x0e3798:"potential ai indicator 1"
+N0:0x0e3a08:"potential ai indicator 2"
+N0:0x0e4094:"potential ai indicator 3"
+N0:0x0e4400:"potential ai indicator 4"
+N0:0x1239b0:"[Check around here for item box data]"
+N0:0x12954c:"[8-bit] Current Checkpoint [VOID]"
+N0:0x12955c:"[8-bit] Lap Counter [VOID]"
+111000001:"0xH0e407c=0_N:0xH0e3152=1_d0xP0d9eb8=0_0xP0d9eb8=1":I Said HOW WOULD YOU LIKE TO SUCK MY BALLS, Mr Garrison:Unlock Mr. Garrison by being the only player to pass over each checkpoint with the trophy in Rally Days #2::::PS2Hagrid:0:::::00000
