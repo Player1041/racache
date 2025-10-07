@@ -1446,3 +1446,41 @@
 002956.092|INFO| << ping response (200): {"Success":true}
 003154.855|INFO| >> ping request: r=ping&u=PS2Hagrid&t=[redacted]&g=19287&m=Inspecting+Memory&h=0&x=11a80e09fe47fa84e188b6c351140b84
 003155.061|INFO| << ping response (200): {"Success":true}
+
+200507.000|INFO| ================================================================================
+200507.000|INFO| Log started at 10/02/25 20:05:07 GMT Summer Time
+200507.000|INFO| BaseDirectory: D:\Games\Emulation\Emulators\PCSX2\
+200507.586|INFO| Using server: https://retroachievements.org
+200507.770|INFO| Loading preferences...
+200507.778|INFO| Initializing 8 worker threads
+200507.779|INFO| Hardcore disabled
+200507.779|INFO| Unofficial enabled
+200507.779|ERR | Error 3 getting file size: D:\Games\Emulation\Emulators\PCSX2\Overlay\theme.json
+200507.779|ERR | Error 3 getting file size: D:\Games\Emulation\Emulators\PCSX2\Overlay\editor_theme.json
+200507.785|INFO| Desktop work area: 1920x1032
+200507.811|INFO| User-Agent: PCSX2/2.5.195 (WindowsNT 10.0) Integration/1.3.1.98-alpha
+200507.811|INFO| User-Agent: PCSX2/2.5.195 (WindowsNT 10.0) Integration/1.3.1.98-alpha PCSX2 v2.5.195 (Microsoft Windows 10+)
+200507.811|INFO| Console set to 21 (PlayStation 2)
+200507.811|INFO| Attempting to log in PS2Hagrid (with token)
+200507.811|INFO| >> login2 request: r=login2&u=PS2Hagrid&t=[redacted]
+200507.954|INFO| << login2 response (200): {"Success":true,"User":"PS2Hagrid","AvatarUrl":"https:\/\/media.retroachievements.org\/UserPic\/Player1041.png","Token":"rXjQdajSyGjliwLK","Score":7956,"SoftcoreScore":42,"Messages":0,"Permissions":2,"AccountType":"Junior Developer"}
+200507.954|INFO| PS2Hagrid logged in successfully
+200511.508|INFO| ResolveHash Request: r=gameid&m=11a80e09fe47fa84e188b6c351140b84
+200511.642|INFO| -- ResolveHash Response: {"Success":true,"GameID":19287}
+200511.642|INFO| Successfully looked up game with ID 19287
+200511.642|INFO| Loading game 19287
+200511.642|INFO| Fetching data for hash 11a80e09fe47fa84e188b6c351140b84
+200511.642|INFO| >> achievementsets request: r=achievementsets&u=PS2Hagrid&t=[redacted]&m=11a80e09fe47fa84e188b6c351140b84
+200511.643|INFO| Starting new session for game 19287
+200511.819|INFO| << achievementsets response (200): {"Success":true,"GameId":19287,"Title":"PopCap Hits! Vol. 2","ImageIconUrl":"https:\/\/media.retroachievements.org\/Images\/095382.png","RichPresenceGameId":19287,"RichPresencePatch":null,"ConsoleId":21,"Sets":[{"Title":null,"Type":"core","AchievementSetId":20435,"GameId":19287,"ImageIconUrl":"https:\/\/media.retroachievements.org\/Images\/095382.png","Achievements":[],"Leaderboards":[]}]}
+200511.820|INFO| Identified game: 19287 "PopCap Hits! Vol. 2" (11a80e09fe47fa84e188b6c351140b84)
+200511.820|INFO| Starting session for game 19287
+200511.820|INFO| >> startsession request: r=startsession&u=PS2Hagrid&t=[redacted]&g=19287&h=0&m=11a80e09fe47fa84e188b6c351140b84&l=12.0
+200511.997|INFO| << startsession response (200): {"Success":true,"ServerNow":1759431911}
+200511.997|INFO| 0/0 memory addresses valid
+200511.997|INFO| Game 19287 loaded, hardcore disabled
+200511.999|INFO| FetchCodeNotes Request: r=codenotes2&g=19287
+200512.006|ERR | Error 2 getting last modified for file: D:\Games\Emulation\Emulators\PCSX2\RACache\Data\19287-Rich.txt
+200512.126|INFO| -- FetchCodeNotes Response: {"Success":true,"CodeNotes":[]}
+200542.002|INFO| >> ping request: r=ping&u=PS2Hagrid&t=[redacted]&g=19287&m=Inspecting+Memory&h=0&x=11a80e09fe47fa84e188b6c351140b84
+200542.141|INFO| << ping response (200): {"Success":true}
