@@ -1,3 +1,4 @@
-1.3.1.98
+1.4.0.0
 South Park Rally
-111000001:"0xH0e3746=0_0xH0e407c=0_N:0xH0e3152=1_d0xP0d9eb8=0_T:0xP0d9eb8=1_0xH12967c=0.1._N:0xM1296a8=0_N:0xH12967c>0_R:0xH12967c>0_N:0xN1296a8=0_N:0xH12967c>1_R:0xH12967c>1_N:0xO1296a8=0_N:0xH12967c>2_R:0xH12967c>2_T:0xH1296a8=15":I Said HOW WOULD YOU LIKE TO SUCK MY BALLS, Mr Garrison:Unlock Mr. Garrison by being the only player to pass over each checkpoint with the trophy in Rally Days #2::::PS2Hagrid:0:::::00000
+111000001:"0xH0e3746=0_0xH0e407c=0_N:0xH0e3152=1_d0xP0d9eb8=0_T:0xP0d9eb8=1_0xH12967c=0.1._N:0xM1296a8=0_N:0xH12967c>0_R:0xH12967c>0_N:0xN1296a8=0_N:0xH12967c>1_R:0xH12967c>1_N:0xO1296a8=0_N:0xH12967c>2_R:0xH12967c>2_T:0xH1296a8=15":I Said HOW WOULD YOU LIKE TO SUCK MY BALLS, Mr Garrison:Unlock Mr. Garrison by being the only player to pass over each checkpoint with the trophy in Rally Days #2::::PS2Hagrid:0:::::"local\\6675-4822dfb7a823c49d1d7a52d30615179d.png"
+111000002:"O:0xH0d4110=2_R:0xH0d4110=3_0xH0d4110=6SN:0xH0e1412=5_N:0xH0d4420=0_d0xH0d4110=4.1420.SN:0xH0e1412=6_N:0xH0d4420=0_d0xH0d4110=4.1700.":Come On Down to South Park:Watch the whole intro theme song::::PS2Hagrid:0:::::"local\\6675-97e28a9cafc793d116c7e12ca9a238de.png"

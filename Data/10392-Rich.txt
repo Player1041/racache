@@ -1,0 +1,64 @@
+Lookup:Char
+0=Barbrady
+1=Bebe
+2=Big Gay Al
+4=Cartman
+5=Cartman Cop
+6=Chef
+8=Damien
+9=Death
+10=Grandpa
+11=Ike
+12=Jesus
+13=Kenny
+14=Kyle
+15=Marvin
+16=Mephesto
+17=Mr. Garrison
+18=Mr. Mackey
+20=Ned
+21=Pip
+22=Satan
+23=Shelly
+24=Stan
+25=Terrance and Phillip
+27=Tweek
+28=Jimbo
+29=Visitor
+30=Wendy
+
+Lookup:Race
+0=Rally Days 1
+1=Rally Days 2
+2=Cow Days
+3=Valentine's Day
+4=Spring Cleaning
+5=Read-a-Book Day
+6=Easter
+7=Pink Lemonade
+8=Memorial Day
+9=4th of July
+10=Halloween
+11=Thanksgiving
+12=Christmas
+13=New Year's Eve
+14=Ass Battle
+
+Lookup:Track
+0=in the city
+1=in the forest
+2=at Big Gay Al's
+3=at the volcano
+4=at the mountain
+5=at the farm
+6=in the sewers
+7=on the gridiron
+
+Display:
+?0xH086c9c=1?Watching the demo
+?0xH08d7cc=25_0xH086ca0=0_0xH086304=7?@Char(0xH08d7cc) are participating in the @Race(0xH086d94) championship race
+?0xH086ca0=0_0xH086304=7?@Char(0xH08d7cc) is participating in the @Race(0xH086d94) championship race
+?0xH08d7cc=25_0xH086304=7?@Char(0xH08d7cc) are participating in a @Race(0xH086d94) race @Track(0xH086380)
+?0xH086304=7?@Char(0xH08d7cc) is participating in a @Race(0xH086d94) race @Track(0xH086380)
+?0xH086304=5?@Char(0xH08d7cc) is celebrating victory
+Preparing to race
